@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Pablo, a software developer focused on solving data challenges.
-![Metrics](/github-metrics.svg)
+
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
