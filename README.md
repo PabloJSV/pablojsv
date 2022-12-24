@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+I'm Pablo, a software developer focused on solving data challenges.
 ![Metrics](/github-metrics.svg)
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
